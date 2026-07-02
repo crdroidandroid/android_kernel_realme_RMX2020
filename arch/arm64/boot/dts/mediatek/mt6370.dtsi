@@ -270,7 +270,7 @@
 				/* regulator-boot-on; */
 
 				/* optional, exist = enabled */
-				/* regulator-always-on; */
+				 regulator-always-on;
 
 				/* optional */
 				/* regulator-ramp-delay = <100>; */
@@ -291,7 +291,7 @@
 				/* regulator-boot-on; */
 
 				/* optional, exist = enabled */
-				/* regulator-always-on; */
+                 regulator-always-on;
 
 				/* optional */
 				/* regulator-ramp-delay = <100>; */
